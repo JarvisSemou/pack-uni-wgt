@@ -1,0 +1,8 @@
+{
+  "name": "pack-uni-wgt",
+  "version": "0.1.0",
+  "description": "pack uniapp wgt package",
+  "main": "index.js",
+  "author": "Jarvis Semou",
+  "license": "MIT"
+}
