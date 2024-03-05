@@ -5,7 +5,11 @@
   "main": "index.js",
   "author": "Jarvis Semou",
   "license": "MIT",
-  "keywords": ["uniapp","wgt"],
+  "type": "module",
+  "keywords": [
+    "uniapp",
+    "wgt"
+  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/JarvisSemou/pack-uni-wgt.git"
@@ -13,5 +17,8 @@
   "bin": {
     "pack-uni-wgt": "./src/index.js",
     "puw": "./src/index.js"
+  },
+  "dependencies": {
+    "archiver": "^7.0.0"
   }
 }
